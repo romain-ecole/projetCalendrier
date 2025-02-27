@@ -14,3 +14,20 @@ U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\refint\calendrier.
 U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\calendrier.pdb
 U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\calendrier.genruntimeconfig.cache
 U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\ref\calendrier.dll
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\bin\Debug\net8.0-windows\calendrier.exe
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\bin\Debug\net8.0-windows\calendrier.deps.json
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\bin\Debug\net8.0-windows\calendrier.runtimeconfig.json
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\bin\Debug\net8.0-windows\calendrier.dll
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\bin\Debug\net8.0-windows\calendrier.pdb
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\obj\Debug\net8.0-windows\calendrier.Form1.resources
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\obj\Debug\net8.0-windows\calendrier.csproj.GenerateResource.cache
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\obj\Debug\net8.0-windows\calendrier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\obj\Debug\net8.0-windows\calendrier.AssemblyInfoInputs.cache
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\obj\Debug\net8.0-windows\calendrier.AssemblyInfo.cs
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\obj\Debug\net8.0-windows\calendrier.csproj.CoreCompileInputs.cache
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\obj\Debug\net8.0-windows\calendrier.sourcelink.json
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\obj\Debug\net8.0-windows\calendrier.dll
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\obj\Debug\net8.0-windows\refint\calendrier.dll
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\obj\Debug\net8.0-windows\calendrier.pdb
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\obj\Debug\net8.0-windows\calendrier.genruntimeconfig.cache
+C:\Users\romai\OneDrive\Documents\BTS SIO\Dev ZIG\dev appli\calendrier\obj\Debug\net8.0-windows\ref\calendrier.dll

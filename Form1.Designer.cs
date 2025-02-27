@@ -35,7 +35,7 @@
             // 
             // Txt
             // 
-            Txt.Location = new Point(175, 15);
+            Txt.Location = new Point(225, 15);
             Txt.Name = "Txt";
             Txt.Size = new Size(71, 23);
             Txt.TabIndex = 0;
@@ -53,7 +53,7 @@
             // LabDate
             // 
             LabDate.AutoSize = true;
-            LabDate.Location = new Point(12, 53);
+            LabDate.Location = new Point(12, 75);
             LabDate.Name = "LabDate";
             LabDate.Size = new Size(101, 15);
             LabDate.TabIndex = 2;
@@ -63,7 +63,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(283, 84);
+            ClientSize = new Size(400, 100);
             Controls.Add(LabDate);
             Controls.Add(Lab);
             Controls.Add(Txt);
