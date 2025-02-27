@@ -1,0 +1,16 @@
+U:\travail dev\calendrier\calendrier\bin\Debug\net8.0-windows\calendrier.exe
+U:\travail dev\calendrier\calendrier\bin\Debug\net8.0-windows\calendrier.deps.json
+U:\travail dev\calendrier\calendrier\bin\Debug\net8.0-windows\calendrier.runtimeconfig.json
+U:\travail dev\calendrier\calendrier\bin\Debug\net8.0-windows\calendrier.dll
+U:\travail dev\calendrier\calendrier\bin\Debug\net8.0-windows\calendrier.pdb
+U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\calendrier.Form1.resources
+U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\calendrier.csproj.GenerateResource.cache
+U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\calendrier.GeneratedMSBuildEditorConfig.editorconfig
+U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\calendrier.AssemblyInfoInputs.cache
+U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\calendrier.AssemblyInfo.cs
+U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\calendrier.csproj.CoreCompileInputs.cache
+U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\calendrier.dll
+U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\refint\calendrier.dll
+U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\calendrier.pdb
+U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\calendrier.genruntimeconfig.cache
+U:\travail dev\calendrier\calendrier\obj\Debug\net8.0-windows\ref\calendrier.dll
